@@ -19,4 +19,4 @@ Disclaimer
 
 Contributing
 -------------
-* It would be great to have a 1-click program for people front-line workers. Feel free to contribute.
+* It would be great to have a 1-click program for non-tech people to run. Feel free to contribute.
